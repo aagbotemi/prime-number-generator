@@ -1,6 +1,6 @@
 # PRIME NUMBER GENERATOR
 
-This repository contains a prime number generated between 2 and n limit using the Sieve of Eratosthenes algorithm implemented in Rust
+This repository contains a prime number generated between starting number and _n_ limit using the Sieve of Eratosthenes algorithm implemented in Rust
 
 ## Clone this repository:
 ```
